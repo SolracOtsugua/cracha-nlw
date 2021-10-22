@@ -1,6 +1,5 @@
 const LinksSocialMedia = {
-  github: 'SolracOtsugua',
-  youtube: 'jakelinygracielly',
+  github: 'SolracOtsugua' ,
   facebook: 'carlos.augusto.397501',
   instagram: 'carlosaugustoslima',
   linkedin: 'in/carlos-augusto-a52370218'
